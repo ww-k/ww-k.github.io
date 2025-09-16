@@ -1,0 +1,5 @@
+### mdbook output dir
+book
+
+### OSX template
+.DS_Store
